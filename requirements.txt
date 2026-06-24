@@ -6,3 +6,4 @@ langchain-huggingface
 faiss-cpu
 python-dotenv
 langchain-classic
+sentence-transformers
