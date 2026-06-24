@@ -2,6 +2,10 @@
 
 An interactive, AI-powered Streamlit web application that allows users to paste any YouTube video URL, automatically extract/process its transcript, and chat with the content. The application uses a Retrieval-Augmented Generation (RAG) pipeline to ensure answers are grounded **only** in the video's transcript.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatwithvideo-ctvgmthxdtaupkikajjqzb.streamlit.app/)
+
+🔗 **Live Demo:** [chatwithvideo-ctvgmthxdtaupkikajjqzb.streamlit.app](https://chatwithvideo-ctvgmthxdtaupkikajjqzb.streamlit.app/)
+
 ---
 
 ## 🚀 Features
